@@ -6,7 +6,12 @@ namespace Task1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string firstName;
+            string lastName;
+            int age;
+            char sex; //‘m’ albo ‘k’
+            long personalIdentityNumber; // PESEL
+            long idEmployee; //np. 2509324094
         }
     }
 }
